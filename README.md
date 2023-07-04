@@ -1,8 +1,8 @@
-<h1>PERPUSTAKAAN</h1>
-<h3>Aplikasi Web dengan Framework Codeigniter</h3>
+<h1>Web Perpustakaan</h1>
+<h3>Aplikasi Web Perpustakaan dengan CI</h3>
 
 
-<p>Ini Adalah tugas dari mata kuliah web programming II .</p>
+<p>Tugas WP2 UBSI SMT6</p>
 
 <br>
 <br>
